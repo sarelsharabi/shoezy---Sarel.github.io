@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 
-
+iframe {
+height: auto;
+}
 
 html{
     box-sizing: border-box;
